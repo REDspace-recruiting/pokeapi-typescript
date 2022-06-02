@@ -25,12 +25,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Monbrey/pokeapi-typescript.git"
+    "url": "git+https://github.com/REDspace-recruiting/pokeapi-typescript.git"
   },
   "bugs": {
-    "url": "https://github.com/Monbrey/pokeapi-typescript/issues"
+    "url": "https://github.com/REDspace-recruiting/pokeapi-typescript/issues"
   },
-  "homepage": "https://github.com/Monbrey/pokeapi-typescript#readme",
+  "homepage": "https://github.com/REDspace-recruiting/pokeapi-typescript#readme",
   "dependencies": {
     "@discordjs/collection": "^0.1.4",
     "@ungap/url-search-params": "^0.1.4",
